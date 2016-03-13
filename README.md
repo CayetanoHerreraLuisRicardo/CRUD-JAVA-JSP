@@ -16,8 +16,8 @@ Se utilizo las siguientes tecnologias:
 
 > Screenshot eliminar proucto con javascrit:
 
-![eliminar-jsp](https://github.com/CayetanoHerreraLuisRicardo/YJSF/blob/master/eliminar-jsp.PNG)
+![eliminar-jsp](https://github.com/CayetanoHerreraLuisRicardo/CRUD-JAVA-JSP/blob/master/eliminar-jsp.PNG)
 
 > Mensajes con Javascrip
 
-![noecontrado.jpa](https://github.com/CayetanoHerreraLuisRicardo/YJSF/blob/master/noecontrado.jpa.PNG)
+![noecontrado.jpa](https://github.com/CayetanoHerreraLuisRicardo/CRUD-JAVA-JSP/blob/master/noecontrado.jpa.PNG)
