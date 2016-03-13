@@ -14,10 +14,10 @@ Se utilizo las siguientes tecnologias:
 - DB: Derby Apache v10.11.1.2 ==> https://db.apache.org/derby
 - Proveedor de persistencia: JPA 2.2 ==> http://www.oracle.com/technetwork/java/javaee/tech/persistence-jsp-140049.html
 
-> Screenshot eliminar proucto con javascrit:
+> Screenshot eliminar proucto con javascript:
 
 ![eliminar-jsp](https://github.com/CayetanoHerreraLuisRicardo/CRUD-JAVA-JSP/blob/master/eliminar-jsp.PNG)
 
-> Mensajes con Javascrip
+> Mensajes con Javascript:
 
 ![noecontrado.jpa](https://github.com/CayetanoHerreraLuisRicardo/CRUD-JAVA-JSP/blob/master/noecontrado.jpa.PNG)
